@@ -1,0 +1,2 @@
+public class ClasseImportante{
+}
